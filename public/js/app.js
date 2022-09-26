@@ -1,9 +1,3 @@
-
-
-console.log('Client side javascript file is loadade')
-
-
-
 //document is the index.hbs page, and getting the propertie form - it gives a javascript representation of the object
 //this match the first element of type form in the document 
 const weatherForm = document.querySelector('form')
